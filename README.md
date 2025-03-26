@@ -1,32 +1,23 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h1 align="center">Hey There</h1>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="left">
+  # Hi, I'm Yasin 👋  
 
-###
+I'm a **backend developer** passionate about building efficient and scalable APIs. I work primarily with **Node.js, Python, and Ruby**, and I'm always exploring new technologies to enhance my projects.  
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 What I Do  
+- API Development (MongoDB, PostgreSQL, Express.js)  
+- Web Scraping & Automation (Puppeteer, OpenCV)  
+- AI-Powered Projects (Discord Bots, Game Automation)  
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Yasin from Turkiye<br><br>- 📚 I'm currently learning full stack developer<br>- ⚡ In my free time I learn new things</p>
+## 📫 Connect with Me  
+Feel free to check out my repositories or reach out for collaboration!
+</p>
 
 
 
