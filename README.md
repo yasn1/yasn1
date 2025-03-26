@@ -17,6 +17,7 @@ I'm a **backend developer** passionate about building efficient and scalable API
 
 ## 📫 Connect with Me  
 Feel free to check out my repositories or reach out for collaboration!
+yasin@oxzof.com
 </p>
 
 
