@@ -6,7 +6,7 @@
 ###
 
 <p align="left">
-  # Hi, I'm Yasin 👋  
+# Hi, I'm Yasin 👋  
 
 I'm a **backend developer** passionate about building efficient and scalable APIs. I work primarily with **Node.js, Python, and Ruby**, and I'm always exploring new technologies to enhance my projects.  
 
